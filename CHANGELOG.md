@@ -2,7 +2,10 @@
 
 ## Unreleased
 
-- Update dev-dependency on `symfony/cache` to address [CVE-2019-10912](https://github.com/advisories/GHSA-w2fr-65vp-mxw3) 
+**Please refer to the [Migration Documentation](MIGRATE-1.x-to-2.0.md) for help to migrate from 1.x to 2.0.**
+
+- Removed deprecated components.
+- Updated dev-dependency on `symfony/cache` to address [CVE-2019-10912](https://github.com/advisories/GHSA-w2fr-65vp-mxw3) 
 
 ## 1.10.0 - 2020-01-14
 
